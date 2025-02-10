@@ -1,2 +1,6 @@
-let name = "saif-ur-rehman";
-console.log(name)
+let color = "red";
+if(color == "red"){
+    console.log("stop")
+} else {
+    console.log("you can gow")
+}
